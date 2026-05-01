@@ -124,16 +124,3 @@ Feel free to fork this project, add new features, and submit pull requests. Poss
 - Add GUI interface
 
 ---
-
-**Enjoy your voice assistant!** 🗣️💬
-```
-
-This README provides:
-- Clear project overview
-- Installation instructions for different OS
-- Command reference table
-- Troubleshooting guide
-- Customization tips
-- Future enhancement ideas
-
-Save this as `README.md` in the same directory as your Python script.
